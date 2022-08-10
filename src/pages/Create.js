@@ -94,7 +94,7 @@ export default function Create() {
             variant="contained"
             endIcon={<KeyboardArrowRightIcon />}
           >
-            Submit
+            Post
           </Button>
         </form>
       </Container>
